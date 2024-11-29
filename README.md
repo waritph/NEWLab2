@@ -208,3 +208,4 @@ Emoji:
 :mask: 🐃 
 poraya 662115031
 mm
+teerada 662115024 
